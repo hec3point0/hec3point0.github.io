@@ -3,9 +3,9 @@ body {
 }
 
 h1,h6 {
-    color: white;
+    font-family: Arial, sans-serif; color: white;
 }
 
 p {
-    color: yellow;
+    font-family: "Times New Roman", monospace;color: yellow;
 }
