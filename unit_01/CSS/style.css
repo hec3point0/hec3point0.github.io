@@ -1,11 +1,11 @@
 body {
-    background-color: #000000;
+    background-color: #0000;
 }
 
 h1,h6 {
-    font-family: Arial, sans-serif; color: white;
+    font-size: 60px; font-family: Arial, sans-serif; color: white;
 }
 
 p {
-    font-family: "Times New Roman", monospace;color: yellow;
+    font-size: 24px; font-family: "Times New Roman", monospace;color: yellow;
 }
