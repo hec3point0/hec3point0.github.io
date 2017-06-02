@@ -1,4 +1,6 @@
 body {
+    background-image: url("images/desert.jpg");
+    background-color: #cccccc;
     text-align: center; background-color: black;
 }
 
