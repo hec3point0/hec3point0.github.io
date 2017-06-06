@@ -4,3 +4,6 @@ body {
 h1 {
   font-size: 75px; font-weight: bold; font: Arial;
 }
+p {
+  font-size: 30px; text-align: center;
+}
