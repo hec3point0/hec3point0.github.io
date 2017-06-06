@@ -1,6 +1,6 @@
 body {
-  background-image: url("/images/desert.jpg");
+  background-image: url("images/desert.jpg");
 }
 h1 {
-  font-size: 25px; font-weight: bold; font: Futura;
+  font-size: 25px; font-weight: bold; font: Arial;
 }
