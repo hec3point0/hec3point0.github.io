@@ -3,19 +3,18 @@ body {
     text-align: center; color: #D3AAB5;
 }
 h1 {
-  text-align: center; font-size: 45px; font-weight: bold; font: sans-serif; color: #B1AC97;
+    text-align: center; font-size: 45px; font-weight: bold; font: sans-serif; color: #B1AC97;
 }
 p {
-  font-size: 30px; text-align: center;
+    font-size: 30px; text-align: center;
 }
 #slogan {
-  font-size: 30px; font-style: italic; color: #A3AAB5;
+    font-size: 30px; font-style: italic; color: #A3AAB5;
   }
 img {
       width: 100%;
       height: auto;
   }
 ul {
-      text-align: center;
-      list-style-type: none;
+    list-style-type: none;
   }
