@@ -11,3 +11,7 @@ p {
 #slogan {
   font-size: 55px; font-style: italic; color: #A3AAB5;
   }
+img {
+      width: 100%;
+      height: auto;
+  }
