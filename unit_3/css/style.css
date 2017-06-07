@@ -1,8 +1,8 @@
 body {
-    text-align: center;
+    text-align: center; color: 002306
 }
 h1 {
-  text-align: left; font-size: 75px; font-weight: bold; font: Arial;
+  text-align: left; font-size: 75px; font-weight: bold; font: Arial; color: 102030
 }
 p {
   font-size: 30px; text-align: center;
